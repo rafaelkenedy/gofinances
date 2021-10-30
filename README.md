@@ -11,7 +11,7 @@ Aplicativo para gerir finanças pessoais em react-native.
 
 </p>
 
-![capa](capa.png?style=flat)
+![cover](cover.png?style=flat)
 
 ## 💻 Project
 Gerenciar suas finanças pessoas de forma simples
