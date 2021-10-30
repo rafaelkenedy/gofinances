@@ -2,7 +2,7 @@
 Aplicativo para gerir finanças pessoais em react-native.
 
 <h1 align="center">
-  <img alt="gofinances" height="64" title="gofinances" src="logo.png" />
+  <img alt="gofinances" height="56" title="gofinances" src="logo.png" />
 </h1>
 
 <p align="center">
