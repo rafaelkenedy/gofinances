@@ -10,7 +10,8 @@ import {
     UserGreeting,
     UserName,
     UserWrapper,
-    Icon
+    Icon,
+    HighlightCards
 
 } 
 from './styles'
@@ -34,7 +35,11 @@ export function Dashboard(){
                 
             </Header>
 
-            <HighlightCard/>
+            <HighlightCards>
+                <HighlightCard/>
+                <HighlightCard/>
+                <HighlightCard/>
+            </HighlightCards>
 
         </Container>
     )
