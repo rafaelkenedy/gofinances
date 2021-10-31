@@ -82,7 +82,6 @@ export const Transactions = styled.View`
     flex: 1%;
     padding: 0 24px;
     margin-top: ${RFPercentage(14)}px;
-  
  
 
 
@@ -95,3 +94,7 @@ export const Title = styled.Text`
     margin-bottom: 16px;
 `;
 
+export const TransactionList = styled.FlatList`
+
+
+`;
