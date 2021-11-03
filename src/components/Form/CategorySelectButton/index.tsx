@@ -1,4 +1,5 @@
 import React from 'react'
+import { BaseButtonProps } from 'react-native-gesture-handler'
 
 import { 
     Container,
