@@ -6,3 +6,7 @@ yarn add react-native-responsive-fontsize
 yarn add react-native-iphone-x-helper
 yarn add react-hook-form
 yarn add @hookform/resolvers yup
+yarn add @react-navigation/native
+yarn add react-native-screens react-native-safe-area-context
+(no caso de ser macos npx pod-install ios)
+yarn add @react-navigation/bottom-tabs
