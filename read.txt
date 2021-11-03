@@ -5,3 +5,4 @@ expo install expo-app-loading
 yarn add react-native-responsive-fontsize
 yarn add react-native-iphone-x-helper
 yarn add react-hook-form
+yarn add @hookform/resolvers yup
