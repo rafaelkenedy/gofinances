@@ -4,3 +4,4 @@ expo install expo-font @expo-google-fonts/poppins
 expo install expo-app-loading
 yarn add react-native-responsive-fontsize
 yarn add react-native-iphone-x-helper
+yarn add react-hook-form
